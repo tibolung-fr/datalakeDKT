@@ -7,3 +7,4 @@ lab_idr_label_cnt,
 cur_idr_currency
  from
 cds.d_country
+where 'FR'='FR'
